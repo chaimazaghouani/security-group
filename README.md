@@ -1,4 +1,3 @@
-# security-group
 # HTTP Security Group 
 
 Configuration in this directory creates set of Security Group and Security Group Rules resources in various combination.
